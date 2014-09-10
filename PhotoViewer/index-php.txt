@@ -17,7 +17,7 @@ If your web server doesn't support index.php as a default index page create a fi
 </script>
 </head>
 <body>
- You should not see this.
+ You should not see this..
 </body>
 </html>
 
