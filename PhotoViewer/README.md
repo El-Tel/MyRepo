@@ -10,15 +10,15 @@ Please leave the footer copyright message if you chose to modify the code.
 
 If your web server doesn't support index.php as a default index page create a file index.html containing the following:
 
-<html>
-<head>
-<script type="text/javascript">
+&lt;html&gt;
+&lt;head&gt;
+&lt;script type="text/javascript"&gt;
   self.location="index.php";
-</script>
-</head>
-<body>
+&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
  You should not see this..
-</body>
-</html>
+&lt;/body&gt;
+&lt;/html&gt;
 
 Any web browser supporting javascript should then display the index.php instead.
