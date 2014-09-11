@@ -10,15 +10,15 @@ Please leave the footer copyright message if you chose to modify the code.
 
 If your web server doesn't support index.php as a default index page create a file index.html containing the following:
 
-&lt;html&gt;
-&lt;head&gt;
-&lt;script type="text/javascript"&gt;
-  self.location="index.php";
-&lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
- You should not see this..
-&lt;/body&gt;
-&lt;/html&gt;
+&lt;html&gt;<br>
+&lt;head&gt;<br>
+&lt;script type="text/javascript"&gt;<br>
+  self.location="index.php";<br>
+&lt;/script&gt;<br>
+&lt;/head&gt;<br>
+&lt;body&gt;<br>
+ You should not see this..<br>
+&lt;/body&gt;<br>
+&lt;/html&gt;<br>
 
 Any web browser supporting javascript should then display the index.php instead.
