@@ -10,6 +10,19 @@ Please leave the footer copyright message if you chose to modify the code.
 
 If your web server doesn't support index.php as a default index page create a file index.html containing the following:
 
+<!-- If you are viewing in raw mode copy and paste this section
+<html>
+<head>
+<script type="text/javascript">
+  self.location="index.php";
+</script>
+</head>
+<body>
+ You should not see this..
+</body>
+</html>
+-->
+
 &lt;html&gt;<br>
 &lt;head&gt;<br>
 &lt;script type="text/javascript"&gt;<br>
