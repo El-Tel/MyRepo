@@ -4,7 +4,7 @@ It doesn't do anything clever making thumbnails, it simply downloads the whole p
 
 It currently only displays .jpg files but it is simple to modify it to display other file types as well.
 
-If you have other subdirectories in your main directory it will display these as icons and if you wish to display the contents of those directories just make another copy of index.php in the subdirectory. Separating photos into subdirectories is one way to speed things up as all the photos down get downloaded at once.
+If you have other subdirectories in your main directory it will display these as icons and if you wish to display the contents of those directories just make another copy of index.php in the subdirectory. Separating photos into subdirectories is one way to speed things up as all the photos don't get downloaded at once.
 
 Please leave the footer copyright message if you chose to modify the code.
 
